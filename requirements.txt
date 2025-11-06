@@ -1,0 +1,6 @@
+# Hotel Management System Requirements
+# Python 3.7+
+
+Flask==3.0.0
+Werkzeug==3.0.1
+
